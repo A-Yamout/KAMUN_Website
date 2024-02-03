@@ -98,7 +98,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
       <footer className="p-6 text-center text-white/80 sm:p-12">
         Lovingly Created By {' '}
         <a
-          href="https://github.com/A-Yamout"
+          href="https://www.instagram.com/adam_yamout/"
           target="_blank"
           className="font-semibold hover:text-white"
           rel="noreferrer"
